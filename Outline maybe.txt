@@ -1,0 +1,12 @@
+CS-218 DATA STRUCTURES & ALGORITHMS (3+1)
+Basic Concepts - Introduction and classification of Data Structures; Basic operations, Classification of Algorithms -
+Classification by implementation; Classification by design paradigm; Basics of Complexity Analysis - Rate of
+Growth of Complexity of Algorithms; Asymptotic notations; Time-Space Trade Offs. String Processing -
+Operations on strings; Word Processing; Pattern Matching Algorithms. Arrays - One-dimensional Arrays:
+Searching and Sorting Algorithms; Multi-dimensional Arrays: Matrix Multiplication, Sparse Matrices. Stacks,
+Queues and Recursion - Basic concepts and functions; Polish Notation; Quick-sort; Deques; Priority Queues;
+Factorial Calculation; Fibonacci Series; Ackermann Function, Towers of Hanoi. Linked Lists - Definition and
+Representation; Traversal and Searching; Insertion; Deletion; Circular Lists; Doubly Linked Lists. Trees -
+Terminology; Representation in memory; Binary Trees: Traversal Algorithms; Binary Search Trees, Heaps; Heap-
+sort algorithm. Graphs - Terminology; Representation in memory; Traversal Algorithms; Shortest Path
+Algorithms; Sorting and Searching - Sorting Algorithms; Hashing
