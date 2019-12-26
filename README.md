@@ -3,3 +3,4 @@
 2. [Visuals](https://visualgo.net/en)
 3. [Master Method](https://www.youtube.com/watch?v=6CX7s7JnXs0)
 4. [CLRS Walthrough?](https://www.youtube.com/user/UHMICSAlgorithms/videos)
+5. [Learn X in Y Minutes](https://learnxinyminutes.com/)
